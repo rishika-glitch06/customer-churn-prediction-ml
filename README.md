@@ -23,6 +23,9 @@ It helped me understand how machine learning can be applied to solve real-world 
 ## 📊 Results
 - Achieved ~0.79 Accuracy
 - Evaluated model using Confusion Matrix & Classification Report
+- ## 📸 Output
+
+![Accuracy](accuracy.png)
 
 ---
 
