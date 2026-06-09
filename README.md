@@ -27,7 +27,7 @@ It helped me understand how machine learning can be applied to solve real-world 
 
 ![Accuracy](accuracy.png)
 
----
+--
 
 ## 📈 Key Learnings
 - Handling categorical data using encoding  
