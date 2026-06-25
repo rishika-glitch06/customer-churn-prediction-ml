@@ -13,7 +13,7 @@ It helped me understand how machine learning can be applied to solve real-world 
 - Scikit-learn  
 - Matplotlib  
 
----
+--
 
 ## 🧠 Model Used
 - Logistic Regression (Classification Model)
